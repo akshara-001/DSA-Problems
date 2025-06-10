@@ -10,6 +10,7 @@ This folder contains C++ solutions to commonly asked array problems in DSA. Each
 |------|----------------------------------|-------------------|--------------------|--------------|
 | 1    | Longest Consecutive Subsequence  | Sorting, Hash Set | O(n) or O(n log n) | LC 128       |
 | 2    | Set Matrix Zeroes                | Row-Col Marking   | O(r*c)             | LC 73        |
+| 3    | Rotate Image                     |Transpose + Reverse| O(n^2)             | LC 48        |
 📝 This table will be updated as more problems are added.
 
 ---
