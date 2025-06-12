@@ -12,7 +12,9 @@ This folder contains C++ solutions to commonly asked array problems in DSA. Each
 | 2    | Set Matrix Zeroes                | Row-Col Marking   | O(r*c)             | LC 73        |
 | 3    | Rotate Image                     |Transpose + Reverse| O(n^2)             | LC 48        |
 | 4    | Spiral Matrix                    |L,R,B & T pointers | O(n^2)             | LC 54        |
-                                                                       
+| 5    | Pascal Triangle                  | Binomial Coeffici.| O(n^2)             | LC 118       |
+
+                                                                      
 📝 This table will be updated as more problems are added.
 
 ---
