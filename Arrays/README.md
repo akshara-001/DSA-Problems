@@ -14,7 +14,9 @@ This folder contains C++ solutions to commonly asked array problems in DSA. Each
 | 4    | Spiral Matrix                    |L,R,B & T pointers | O(n^2)             | LC 54        |
 | 5    | Pascal Triangle                  | Binomial Coeffici.| O(n^2)             | LC 118       |
 | 6    | Majority Element 2               |Moore Voting Algo  | O(n)               | LC 229       |
-                                                                      
+| 7    | 3 Sum ptoblem                    |Two Pointer        | O(n^2)             | LC 15        |         
+
+
 📝 This table will be updated as more problems are added.
 
 ---
