@@ -15,7 +15,7 @@ This folder contains C++ solutions to commonly asked array problems in DSA. Each
 | 5    | Pascal Triangle                  | Binomial Coeffici.| O(n^2)             | LC 118       |
 | 6    | Majority Element 2               |Moore Voting Algo  | O(n)               | LC 229       |
 | 7    | 3 Sum ptoblem                    |Two Pointer        | O(n^2)             | LC 15        |         
-
+| 8    | Merge two sorted Arrays with O(1)|2 pointers from End| O(m + n)           | LC 88        |
 
 📝 This table will be updated as more problems are added.
 
